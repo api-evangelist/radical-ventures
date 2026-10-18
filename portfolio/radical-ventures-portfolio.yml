@@ -1,0 +1,707 @@
+name: Radical Ventures Portfolio
+type: Portfolio
+generated: '2026-10-18'
+method: searched
+source: https://radical.vc/portfolio/
+summary:
+  portfolio_total: 59
+  in_network: 40
+  api_providers: 14
+  missing: 19
+  stubs_created: 0
+companies:
+- name: Artificial Agency
+  url: https://www.artificial.agency
+  description: Artificial Agency builds an AI-powered behavior engine that brings dynamic, unscripted
+    NPCs and real-time decision-making to video games.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/artificial-agency/
+  suggested_slug: artificial-agency
+  in_network: false
+  is_api_provider: false
+- name: Aspect Biosystems
+  url: https://www.aspectbiosystems.com
+  description: Aspect Biosystems combines 3D bioprinting, therapeutic cells, and computational design
+    to create implantable tissue therapeutics.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/aspect-biosystems/
+  slug: aspect-biosystems
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Attuned Intelligence
+  url: https://www.attuned-intelligence.com
+  description: Attuned Intelligence believes getting healthcare help should feel human, no matter how
+    busy the phones get.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/attuned-intelligence/
+  slug: attuned-intelligence
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: CentML
+  url: https://centml.ai
+  description: CentML optimizes AI model performance and reduces compute costs for machine learning workloads.
+  sector: Artificial Intelligence
+  stage: null
+  status: acquired
+  source: https://radical.vc/portfolio/centml/
+  slug: centml
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Chemix
+  url: https://www.chemix.ai
+  description: Chemix uses AI to design and optimize next-generation battery chemistries, accelerating
+    material discovery for electric vehicles and the energy transition.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/chemix/
+  slug: chemix
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Cinder
+  url: https://cinder.ai
+  description: Cinder is the industry-leading trust and safety operations platform, helping organizations
+    combat AI-powered abuse, fraud, and harmful content at scale.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/cinder/
+  slug: cinder
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Cohere
+  url: https://cohere.com
+  description: Cohere ensures organizations own their intelligence layer instead of renting it.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/cohere/
+  slug: cohere
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Covariant
+  url: https://covariant.ai
+  description: Covariant builds AI that gives robots the ability to see, reason, and act in the real world,
+    bringing dexterous automation to warehouses and supply chains.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/covariant/
+  slug: covariant
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Crusoe
+  url: https://www.crusoe.ai
+  description: Crusoe Energy is a leading developer of AI-optimized data center infrastructure, building
+    the physical foundation that powers today's AI revolution.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/crusoe/
+  slug: crusoe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cyera
+  url: https://www.cyera.com
+  description: Cyera is an AI-native data security platform that helps enterprises discover, classify,
+    and protect sensitive data across hybrid cloud environments.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/cyera/
+  slug: cyera
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: DatologyAI
+  url: https://www.datologyai.com
+  description: DatologyAI automates the curation and selection of training data to improve AI model performance.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/datologyai/
+  slug: datologyai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Decart
+  url: https://www.decart.ai
+  description: Decart is an AI research lab building real-time world models and ultra-optimized infrastructure
+    that lets AI systems run at the speed of reality.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/decart/
+  slug: decart
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Delphina
+  url: https://delphina.ai
+  description: Delphina is an LLM-powered copilot for data science that accelerates how teams build, deploy,
+    and improve predictive AI models.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/delphina/
+  suggested_slug: delphina
+  in_network: false
+  is_api_provider: false
+- name: Discovery Loop
+  url: https://www.discoveryloop.com/
+  description: Discovery Loop is a public benefit company automating the scientific method, deploying
+    AI systems that run thousands of experiments in parallel — proposing hypotheses, executing tests,
+    analyzing results, and iterating without human intervention.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/discovery-loop/
+  suggested_slug: discovery-loop
+  in_network: false
+  is_api_provider: false
+- name: Emerald AI
+  url: https://www.emeraldai.co
+  description: Emerald AI develops software that turns energy-intensive AI data centers into flexible
+    grid assets, cutting power draw during peak demand without sacrificing compute performance.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/emerald-ai/
+  suggested_slug: emerald-ai
+  in_network: false
+  is_api_provider: false
+- name: Etched
+  url: https://www.etched.com
+  description: Etched builds frontier inference clusters designed to make AI inference dramatically faster,
+    cheaper, and more abundant.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/etched/
+  slug: etched
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Firsthand
+  url: https://firsthand.ai
+  description: Firsthand lets publishers and brands build and distribute their own AI agents to consumers
+    while retaining full control over their data and content.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/firsthand/
+  x-name-collision: firsthand
+  suggested_slug: firsthand-ai
+  in_network: false
+  is_api_provider: false
+- name: General Magic
+  url: https://generalmagic.inc
+  description: General Magic rebuilds the operating layer of insurance with AI agents that handle the
+    full brokerage workflow — customer conversations, underwriting, and compliance.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/general-magic/
+  suggested_slug: general-magic
+  in_network: false
+  is_api_provider: false
+- name: Generalist
+  url: https://generalistai.com
+  description: Generalist is a frontier AI robotics company building general-purpose embodied AI models
+    that let robots master complex physical tasks.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/generalist/
+  slug: generalist-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Genesis Molecular AI
+  url: https://www.genesistherapeutics.ai
+  description: Genesis Molecular AI unifies AI and biotech, pairing proven drug developers with an advanced
+    small-molecule discovery platform.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/genesis-molecular-ai/
+  suggested_slug: genesis-molecular-ai
+  in_network: false
+  is_api_provider: false
+- name: Hebbia
+  url: https://www.hebbia.ai
+  description: Hebbia's AI platform is capable of reading and comprehending the untouched universe of
+    unstructured, private data.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/hebbia/
+  slug: hebbia
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Inherent
+  url: https://inherentlabs.ai
+  description: Inherent is a London-based AI research lab building general-purpose inventive AI to accelerate
+    scientific discovery, applying recursive self-improvement to both its models and its research organization.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/inherent/
+  slug: inherent
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Intrepid Labs
+  url: https://intrepidlabs.tech
+  description: Intrepid Labs, a University of Toronto spinout, uses an AI-driven robotic platform to autonomously
+    design and test drug formulations — optimizing delivery format and dosing for better patient outcomes.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/intrepid-labs/
+  suggested_slug: intrepid-labs
+  in_network: false
+  is_api_provider: false
+- name: Latent Labs
+  url: https://www.latentlabs.com
+  description: Founded by a key architect of DeepMind's Nobel Prize-winning AlphaFold2, Latent Labs builds
+    AI foundation models that make biology programmable through de novo protein design.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/latent-labs/
+  slug: latent-labs
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Mantic
+  url: https://www.mantic.com/
+  description: 'Mantic is a world-class technical team on a mission to solve the next AI grand challenge:
+    predicting global events with superhuman accuracy and deploying this capability to power radically
+    improved decision-making in business and government.'
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/mantic/
+  suggested_slug: mantic
+  in_network: false
+  is_api_provider: false
+- name: Mosaic
+  url: https://www.mosaic.pe
+  description: Mosaic is an AI-driven deal-modeling platform that generates financial models and LBO analyses
+    for investment professionals.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/mosaic/
+  slug: mosaic
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Muon Space
+  url: https://www.muonspace.com
+  description: Muon Space builds and operates full-stack satellite systems that deliver mission-grade
+    Earth-observation data to organizations without space expertise.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/muon-space/
+  slug: muon-space
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Nabla Bio
+  url: https://www.nabla.bio
+  description: Nabla Bio combines generative AI with large-scale, human-relevant testing to turn drug
+    development from trial-and-error into an engineered, designable process.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/nabla-bio/
+  slug: nabla-bio
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: OffDeal
+  url: https://offdeal.io
+  description: OffDeal is an AI-native investment bank for small and medium-sized businesses, using proprietary
+    data and AI agents to run the M&A process at scale.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/offdeal/
+  suggested_slug: offdeal
+  in_network: false
+  is_api_provider: false
+- name: Orbital Industries
+  url: https://www.orbitalindustries.com
+  description: Orbital Industries uses generative AI to discover and design new materials, replacing slow
+    lab trial-and-error with its foundation model to develop technologies for the energy transition.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/orbital-materials/
+  slug: orbital-materials
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Outset
+  url: https://www.outset.ai
+  description: Outset is an AI-moderated research platform that runs hundreds of qualitative interviews
+    simultaneously across languages and geographies.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/outset/
+  slug: outset
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: P-1 AI
+  url: https://p-1.ai
+  description: P-1 AI is building an AI engineer for the physical world named Archie, which automates
+    design work for complex physical systems.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/p-1-ai/
+  suggested_slug: p-1-ai
+  in_network: false
+  is_api_provider: false
+- name: Periodic Labs
+  url: https://periodic.com/
+  description: Periodic Labs is building scientific superintelligence to accelerate discovery in the physical
+    sciences.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/periodic-labs/
+  slug: periodic-labs
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Pixxel
+  url: https://www.pixxel.space
+  description: Pixxel operates a constellation of hyperspectral imaging satellites that monitor the health
+    of the planet, delivering AI-powered geospatial analysis for agriculture, energy, and the environment.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/pixxel/
+  slug: pixxel
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pocket Health
+  url: https://www.pockethealth.com
+  description: PocketHealth gives patients ownership of and access to their medical imaging while providing
+    hospitals with modern image-sharing and management tools.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/pocket-health/
+  slug: pockethealth
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Prepared
+  url: https://www.prepared911.com
+  description: Prepared builds an AI platform for 911 call centers, delivering real-time transcription,
+    instant multilingual translation, and intelligent dispatch support to accelerate emergency response.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/prepared/
+  slug: prepared
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Prime Intellect
+  url: https://www.primeintellect.ai
+  description: Prime Intellect builds decentralized infrastructure for training, evaluating, and deploying
+    frontier AI models at scale.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/prime-intellect/
+  slug: prime-intellect
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Promise Robotics
+  url: https://www.promiserobotics.com
+  description: Promise Robotics combines AI and robotics to transform the construction industry through
+    automated manufacturing, building an industrial production system for sustainable and affordable housing.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/promise-robotics/
+  suggested_slug: promise-robotics
+  in_network: false
+  is_api_provider: false
+- name: Reka
+  url: https://www.reka.ai
+  description: Reka develops multimodal AI models that understand text, images, video, and audio, delivering
+    enterprise-grade models with privacy and security built in.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/reka/
+  slug: reka
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ribbon
+  url: https://www.ribbon.ai
+  description: Ribbon is an AI recruiting platform that conducts two-way voice interviews around the clock,
+    screens candidates against custom rubrics, and integrates with leading applicant tracking systems
+    to speed up high-volume hiring.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/ribbon/
+  suggested_slug: ribbon
+  in_network: false
+  is_api_provider: false
+- name: Ricursive Intelligence
+  url: https://www.ricursive.com
+  description: Ricursive Intelligence automates semiconductor design with reinforcement learning, compressing
+    chip development from years to weeks — where better-designed chips enable more powerful AI in a compounding
+    loop.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/ricursive-intelligence/
+  slug: ricursive
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Serval
+  url: https://www.serval.com
+  description: Serval is an AI-powered platform for IT service management that automates routine help-desk
+    and operational requests through natural-language interfaces.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/serval/
+  slug: serval
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Signal 1
+  url: https://www.signal1.ai
+  description: Signal 1 embeds AI-driven insights into hospital workflows, helping health systems address
+    surgical backlogs, staffing shortages, and clinician burden while improving patient outcomes.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/signal-1/
+  suggested_slug: signal-1
+  in_network: false
+  is_api_provider: false
+- name: Slingshot AI
+  url: https://www.slingshot.xyz
+  description: Slingshot AI is building Ash, a foundation model trained specifically for psychological
+    support, combining behavioral-health data with reinforcement learning to deliver specialized therapeutic
+    care.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/slingshot-ai/
+  x-name-collision: slingshot-ai
+  suggested_slug: slingshot-xyz
+  in_network: false
+  is_api_provider: false
+- name: Solver
+  url: https://solver.ai
+  description: Powered by proprietary models and a brand-new out-of-the-editor UX, Solver is an agent
+    that completes repository-level tasks directly from natural instructions — even text taken verbatim
+    from an issue tracker.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/solver/
+  suggested_slug: solver
+  in_network: false
+  is_api_provider: false
+- name: Spara
+  url: https://www.spara.co
+  description: Spara builds and deploys conversational AI agents across chat, email, and voice that qualify
+    leads, engage prospects, and drive sales pipeline.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/spara/
+  suggested_slug: spara
+  in_network: false
+  is_api_provider: false
+- name: Synex
+  url: https://www.synexmedical.com
+  description: Synex Medical develops non-invasive monitoring that uses magnetic resonance to measure
+    metabolites like glucose without needles, enabling real-time, preventive metabolic health tracking.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/synex/
+  suggested_slug: synex
+  in_network: false
+  is_api_provider: false
+- name: Twelve Labs
+  url: https://www.twelvelabs.io
+  description: Twelve Labs builds multimodal AI that understands video with human-like comprehension,
+    making massive video libraries as searchable and analyzable as text.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/twelve-labs/
+  slug: twelvelabs
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Unblocked
+  url: https://getunblocked.com
+  description: Unblocked helps engineering teams understand the “why” behind their code, connecting scattered
+    information across development tools to surface context about intent, history, and decisions.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/unblocked/
+  slug: unblocked
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Unlearn
+  url: https://www.unlearn.ai
+  description: Unlearn creates AI-generated digital twins of patients to accelerate clinical trials and
+    improve trial efficiency.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/unlearn/
+  slug: unlearn
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Untether AI
+  url: null
+  description: Untether AI designs energy-efficient semiconductor technology purpose-built for high-performance
+    AI inference, from the data center to the edge.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/untether-ai/
+  suggested_slug: untether-ai
+  in_network: false
+  is_api_provider: false
+- name: V7
+  url: https://www.v7labs.com
+  description: V7 automates data labeling and training-data workflows with AI, helping machine-learning
+    teams build models dramatically faster.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/v7/
+  slug: v7-labs
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Vizcom
+  url: https://www.vizcom.ai
+  description: Vizcom is an AI design platform that turns hand-drawn sketches into photorealistic renderings
+    and 3D models, built for professional industrial designers to iterate at speed.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/vizcom/
+  slug: vizcom
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Waabi
+  url: https://waabi.ai
+  description: Waabi, founded by AI pioneer Raquel Urtasun, is building the next generation of self-driving
+    technology — unleashing the power of AI to drive safely in the real world.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/waabi/
+  slug: waabi
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: World Labs
+  url: https://www.worldlabs.ai
+  description: Founded by Fei-Fei Li, World Labs builds large world models that give AI spatial intelligence
+    — the ability to perceive, generate, and interact with the full 3D world, not just 2D images.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/world-labs/
+  slug: world-labs
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Writer
+  url: https://writer.com
+  description: Writer is a full-stack generative AI platform for the enterprise, uniting IT and business
+    teams to build and deploy secure AI applications and agents, powered by its Palmyra models and graph-based
+    retrieval.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/writer/
+  slug: writer
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Xanadu
+  url: https://xanadu.ai
+  description: Xanadu is building practical, photonic quantum computers — using particles of light to
+    perform computations at room temperature — with the goal of making quantum computing broadly accessible.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/xanadu/
+  slug: xanadu-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: You.com
+  url: https://you.com
+  description: You.com delivers accurate answers to complex questions and automates workflows, orchestrating
+    information across private data, live web search, and large language models.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/you-com/
+  slug: graft
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Yutori
+  url: https://yutori.com
+  description: Founded by AI researchers Devi Parikh, Dhruv Batra, and Abhishek Das, Yutori builds agent-first
+    AI assistants that autonomously carry out everyday digital tasks — a “chief of staff for everyone.”.
+  sector: Artificial Intelligence
+  stage: null
+  status: unknown
+  source: https://radical.vc/portfolio/yutori/
+  slug: yutori
+  in_network: true
+  is_api_provider: true
+  matched_by: domain

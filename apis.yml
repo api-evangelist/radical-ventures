@@ -1,0 +1,58 @@
+aid: radical-ventures
+name: Radical Ventures
+description: Radical Ventures is a venture capital firm investing exclusively in AI-first companies, backing founders applying artificial intelligence across foundation models, AI infrastructure and compute, enterprise agents, robotics, scientific discovery, life sciences, climate and space. The firm operates from Toronto, San Francisco and London, runs the Velocity program and publishes AI Perspectives; its portfolio of 59 companies includes Cohere, Writer, World Labs, Twelve Labs, Hebbia, Cyera, Crusoe and You.com.
+image: https://radical.vc/wp-content/uploads/2026/07/Radical-circle-logo-rev-pink-rgb_1772037794402-5-cwJpOH.webp
+tags:
+- Venture Capital
+- Artificial Intelligence
+- AI Infrastructure
+- Early Stage
+- Canada
+- North America
+- Europe
+- Deep Tech
+created: '2026-10-18'
+modified: '2026-10-18'
+url: https://radical.vc/
+specificationVersion: '0.20'
+x-type: venture-capital
+x-category: Venture Capital
+apis: []
+common:
+- type: Website
+  url: https://radical.vc/
+- type: Portfolio
+  url: https://radical.vc/portfolio/
+- type: Portfolio
+  url: portfolio/radical-ventures-portfolio.yml
+- type: Team
+  url: https://radical.vc/team/
+- type: Blog
+  url: https://radical.vc/perspectives/
+- type: Jobs
+  url: https://radical.getro.com/jobs
+- type: Contact
+  url: https://radical.vc/contact/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/radicalventures
+- type: Twitter
+  url: https://twitter.com/radicalvcfund
+- type: Features
+  name: Fund Facts
+  data:
+    Sectors: AI-first companies
+    Offices: Toronto, San Francisco, London
+    Programs: Velocity
+    Portfolio size (listed): 59
+  sources:
+  - https://radical.vc/
+  - https://radical.vc/contact/
+  - https://radical.vc/portfolio/
+  updated: '2026-10-18'
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  url: https://apisjson.org
+- FN: Radical Ventures
+  url: https://radical.vc/contact/

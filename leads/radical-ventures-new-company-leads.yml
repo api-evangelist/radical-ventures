@@ -1,0 +1,137 @@
+generated: '2026-10-18'
+method: derived
+source_vc: radical-ventures
+leads:
+- name: Artificial Agency
+  url: https://www.artificial.agency
+  suggested_slug: artificial-agency
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/artificial-agency/
+  stub_created: false
+- name: Delphina
+  url: https://delphina.ai
+  suggested_slug: delphina
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/delphina/
+  stub_created: false
+- name: Discovery Loop
+  url: https://www.discoveryloop.com/
+  suggested_slug: discovery-loop
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/discovery-loop/
+  stub_created: false
+- name: Emerald AI
+  url: https://www.emeraldai.co
+  suggested_slug: emerald-ai
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/emerald-ai/
+  stub_created: false
+- name: Firsthand
+  url: https://firsthand.ai
+  suggested_slug: firsthand-ai
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/firsthand/
+  stub_created: false
+- name: General Magic
+  url: https://generalmagic.inc
+  suggested_slug: general-magic
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/general-magic/
+  stub_created: false
+- name: Genesis Molecular AI
+  url: https://www.genesistherapeutics.ai
+  suggested_slug: genesis-molecular-ai
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/genesis-molecular-ai/
+  stub_created: false
+- name: Intrepid Labs
+  url: https://intrepidlabs.tech
+  suggested_slug: intrepid-labs
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/intrepid-labs/
+  stub_created: false
+- name: Mantic
+  url: https://www.mantic.com/
+  suggested_slug: mantic
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/mantic/
+  stub_created: false
+- name: OffDeal
+  url: https://offdeal.io
+  suggested_slug: offdeal
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/offdeal/
+  stub_created: false
+- name: P-1 AI
+  url: https://p-1.ai
+  suggested_slug: p-1-ai
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/p-1-ai/
+  stub_created: false
+- name: Promise Robotics
+  url: https://www.promiserobotics.com
+  suggested_slug: promise-robotics
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/promise-robotics/
+  stub_created: false
+- name: Ribbon
+  url: https://www.ribbon.ai
+  suggested_slug: ribbon
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/ribbon/
+  stub_created: false
+- name: Signal 1
+  url: https://www.signal1.ai
+  suggested_slug: signal-1
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/signal-1/
+  stub_created: false
+- name: Slingshot AI
+  url: https://www.slingshot.xyz
+  suggested_slug: slingshot-xyz
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/slingshot-ai/
+  stub_created: false
+- name: Solver
+  url: https://solver.ai
+  suggested_slug: solver
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/solver/
+  stub_created: false
+- name: Spara
+  url: https://www.spara.co
+  suggested_slug: spara
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/spara/
+  stub_created: false
+- name: Synex
+  url: https://www.synexmedical.com
+  suggested_slug: synex
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/synex/
+  stub_created: false
+- name: Untether AI
+  url: ''
+  suggested_slug: untether-ai
+  sector: Artificial Intelligence
+  source_vc: radical-ventures
+  source: https://radical.vc/portfolio/untether-ai/
+  stub_created: false

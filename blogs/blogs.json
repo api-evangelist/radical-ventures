@@ -1,0 +1,14 @@
+{
+  "repo": "radical-ventures",
+  "feeds": [
+    {
+      "source": "https://radical.vc/perspectives/",
+      "feed_url": "https://radical.vc/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-24T12:29:31Z"
+}
